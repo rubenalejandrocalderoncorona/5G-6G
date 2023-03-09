@@ -32,23 +32,10 @@ const Bio = () => {
 
   return (
     <div className="bio">
-      <StaticImage
-        className="bio-avatar"
-        layout="fixed"
-        formats={["auto", "webp", "avif"]}
-        src="../images/profile-pic.png"
-        width={50}
-        height={50}
-        quality={95}
-        alt="Profile picture"
-      />
+      
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
-          </a>
+          The world has already witnessed the revolutionary impacts of 4G technology on communication and the internet. But as the world advances, the demand for high-speed internet, low latency, and reliable connectivity continues to grow. As a result, the development of 5G and 6G technology has gained significant attention. In this article, we will discuss the technology, differences, cost, and other factors related to 5G and 6G.
         </p>
       )}
     </div>

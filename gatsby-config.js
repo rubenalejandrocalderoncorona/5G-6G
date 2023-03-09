@@ -9,7 +9,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    pathPrefix: "/5G-6G",
+    title: `5G & 6G`,
     author: {
       name: `Kyle Mathews`,
       summary: `who lives and works in San Francisco building useful things.`,
@@ -110,7 +111,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `5G & 6G`,
         short_name: `Gatsby`,
         start_url: `/`,
         background_color: `#ffffff`,

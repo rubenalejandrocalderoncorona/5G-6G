@@ -1,108 +1,56 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: 5G
+date: "2019-04-03T22:40:32.169Z"
+description: 5G technology is the fifth generation of mobile networks. It is the successor to 4G technology, and it is designed to provide faster and more reliable connectivity to a large number of devices. 
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
 
-## On deer horse aboard tritely yikes and much
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+![5G](./assets/descarga.png)
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+## What is 5G?
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
 
-### Overlaid the jeepers uselessly much excluding
+5G technology is the fifth generation of mobile networks. It is the successor to 4G technology, and it is designed to provide faster and more reliable connectivity to a large number of devices. The technology uses a combination of new hardware, software, and advanced infrastructure to offer significant improvements in speed, latency, and network capacity. Some of the key features of 5G technology include:
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+- High-speed internet connectivity: 5G technology is designed to provide internet speeds that are significantly faster than 4G. It is capable of delivering download speeds of up to 20 Gbps, which is nearly 20 times faster than 4G.
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+- Low Latency: Latency refers to the time taken by a network to respond to a request. 5G technology is designed to reduce latency to a great extent, resulting in better user experience for real-time applications like online gaming, virtual reality, and augmented reality.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+- Improved Network Capacity: 5G technology is designed to support a large number of devices on a single network, making it ideal for the Internet of Things (IoT) applications.
 
-### According a funnily until pre-set or arrogant well cheerful
+- Improved Network Security: 5G technology uses advanced encryption methods and protocols to provide better security for data transmission over the network.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+## Difference between 4G
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+5G (fifth generation) and 4G (fourth generation) are both cellular network technologies used to provide wireless communication between devices. However, there are several differences between the two:
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+- Speed: 5G is faster than 4G. While 4G can deliver download speeds of up to 100Mbps, 5G can provide speeds of up to 20Gbps.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+- Latency: 5G has lower latency than 4G. Latency is the time it takes for a signal to travel from the source to the destination. With 5G, latency can be as low as 1 millisecond, compared to 4G's 30-50 milliseconds.
 
-#### Silent delightfully including because before one up barring chameleon
+- Capacity: 5G has a higher capacity than 4G. This means that it can support more devices and data traffic, making it more efficient for crowded areas like stadiums or airports.
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+- Coverage: 4G has better coverage than 5G. This is because 4G uses lower frequency bands that can travel further and penetrate walls and obstacles more easily than the higher frequency bands used by 5G.
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+- Deployment: 5G is still being rolled out, while 4G is widely available. This means that while 5G may provide faster speeds and lower latency, it may not be available in all areas yet.
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+![5G](./assets/5g-6g.jpg)
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+## Disadvantages 5G
 
-###### Slapped cozy a that lightheartedly and far
+While 5G (fifth generation) technology offers many advantages, there are also some potential disadvantages, including:
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+Higher Cost: 5G technology requires new infrastructure, including new cell towers and other equipment, which can be expensive to install and maintain. As a result, the cost of deploying 5G networks may be higher than 4G networks, which could ultimately lead to higher costs for consumers.
+
+- Limited Coverage: Although 5G networks are being rolled out quickly, they are still not available in all areas. Additionally, the higher frequency bands used by 5G have less range and are less able to penetrate walls and obstacles, which means that 5G networks may have limited coverage in some areas.
+
+- Security Concerns: As with any new technology, there are security concerns around 5G networks. For example, there are concerns that 5G networks may be more vulnerable to hacking and cyber attacks.
+
+- Health Concerns: Some people have raised concerns about the potential health effects of exposure to 5G radio waves. However, there is currently no conclusive scientific evidence that 5G technology poses any significant health risks.
+
+- Compatibility Issues: 5G technology is not yet fully compatible with all existing devices, which means that some devices may not be able to take advantage of the new technology without upgrades or replacements.
+
+
+![5G](./assets/5GDisadvantages.jpg)
